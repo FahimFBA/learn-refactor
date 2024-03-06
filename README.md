@@ -1,2 +1,2 @@
-# learn-refactor
+# Learn Refactor
 Learn refactoring codes! 🔥
